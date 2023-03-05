@@ -1,0 +1,25 @@
+{
+  "name": "@samridht23/icon-gen",
+  "version": "1.0.0",
+  "description": "icon generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samridht23/icon-gen.git"
+  },
+  "keywords": [
+    "icon",
+    "generator",
+    "icon generator",
+    "react"
+  ],
+  "author": "samridh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samridht23/icon-gen/issues"
+  },
+  "homepage": "https://github.com/samridht23/icon-gen#readme"
+}
